@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Access Door System</string>
+
+        <string-array name="job_array">
+            <item>Job</item>
+            <item>Student</item>
+            <item>Instructor</item>
+            <item>Staff</item>
+            <item>Other</item>
+        </string-array>
+</resources>
